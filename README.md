@@ -1,5 +1,5 @@
 # Portfolio_Projects
-Data cleaning was demonstrated in this project where Nashville Housing messy data was taken and cleaned. 
+Data cleaning was demonstrated in this project where Nashville Housing messy data was cleaned using SQL.
 1. Datetime format was adjusted to more practical and standard date-only format.
 2. NULL  values in address was removed and populated with useful data. It involved use of self joins
 3. Data in address columns were presented in a more useful and readable form. It was categorized properly by adding new columns to contain city infromation seprately.
