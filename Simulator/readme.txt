@@ -1,3 +1,9 @@
+Project description:
+•	The project focused on the development of an off-the-shelf computer simulated lab model of a radar system in MATLAB environment to demonstrate the concepts of radar theory and its practical applications. 
+•	A GUI in python was developed for users to interact while experimenting and instruction manuals were developed for step-by-step guidance.
+
+How to execute:
+*Extract nrad folder
 * Copy A lab file
 1 - Copy a lab template
 2 - Add variables inside the template for  use in matlab script
