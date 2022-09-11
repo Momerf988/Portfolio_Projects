@@ -1,4 +1,4 @@
-The follwing repositry contains following projects described by folder:
+The folder contains the project described as follows:
 
 Nashville Housing Data cleaning
 
