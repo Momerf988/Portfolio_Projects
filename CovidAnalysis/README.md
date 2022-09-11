@@ -1,4 +1,4 @@
-The following repositry contains following projects described by folder:
+The folder contains the project described as follows:
 
 Covid Analysis
 1. The data was taken from official records of ourworldindata.org
