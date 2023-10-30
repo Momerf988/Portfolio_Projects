@@ -6,6 +6,7 @@ Project description:
 How to execute:
 
 A. Extract nrad folder
+
 B. Copy A lab file
 1. Copy a lab template
 2. Add variables inside the template for  use in matlab script
@@ -18,3 +19,6 @@ C. In ui.py
 2. Add a new tab by copying the template for tabex
 3. Add a new lab by copying the template for labex
 4. Modify the run_lab function and add the newly created lab as in the lab example
+
+Demonstration Videos:
+https://drive.google.com/drive/folders/1JJmjK2kx2w65xokDYGzjapsvoK_FszZ4?usp=sharing
